@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Stronghold Finder</string>
+    <string name="info">Throw two eyes of ender from different positions to locate a stronghold in your world. The results will be more accurate when near the stronghold. For best results, stand still and make sure the cursor is pointing exactly at the centre of the eye. Press F3 to see your coordinates and direction. Make sure you are recording the horizontal direction, not the vertical direction.
+</string>
+    <string name="back">Back</string>
+    <string name="x_equals">X =</string>
+    <string name="z_equals">Z =</string>
+    <string name="stronghold_coordinates">Stronghold Coordinates</string>
+    <string name="x_hint">X Coordinate</string>
+    <string name="z_hint">Z Coordinate</string>
+    <string name="angle_hint">Angle</string>
+    <string name="info_button">info</string>
+    <string name="clear_button">Clear</string>
+    <string name="direction_facing">Direction Facing:</string>
+    <string name="player_x">Player X:</string>
+    <string name="player_z">Player Z:</string>
+    <string name="find_stronghold">Find Stronghold</string>
+    <string name="first_eye">First Eye</string>
+    <string name="second_eye">Second Eye</string>
+    <string name="error_toast">You must input all values</string>
+    <string name="clear_toast">Values have been cleared</string>
+</resources>
